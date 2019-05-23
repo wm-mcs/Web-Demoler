@@ -11,7 +11,9 @@
               
             </div>
 
-          
+             {{-- parte de politicas --}}  
+             <div class="text-center contenedor-columna-footer  Helper-OrdenarHijos-Row">
+             
 
 
               <div class="get_width_100 flex-row-center flex-justifice-space-around flex-wrap">
