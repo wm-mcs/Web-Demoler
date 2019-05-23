@@ -15,12 +15,14 @@
 }
 
 .slider-titulo-expecial{
-  color:white;
-  background-color: rgba(0, 0, 0, 0.72);
+  
+  -webkit-text-fill-color: white;
+  -webkit-text-stroke: 1px black;
 }
 
 .Slider_cabecera_caption_sub_titulo{
   font-size: 1rem;
+  -webkit-text-stroke: 1px black;
 }  
 
 .Slider_cabecera_caption_logo{
