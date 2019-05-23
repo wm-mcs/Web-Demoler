@@ -16,9 +16,9 @@
 
 @section('contenido')
       @include('paginas.home.home_about')       
-      @include('paginas.home.home_precios')    
-      <img data-src="{{url()}}/imagenes/Slider/foto-slider-corazon.jpg" class="get_width_100">  
-      @include('paginas.home.home_piedras_cuidados')   
+        
+      <img data-src="{{url()}}/imagenes/Home/1.jpg" class="get_width_100">  
+      <img data-src="{{url()}}/imagenes/Home/2.jpg" class="get_width_100">   
 @stop      
 
 
