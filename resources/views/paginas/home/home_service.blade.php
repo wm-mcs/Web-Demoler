@@ -19,16 +19,16 @@
         </div>
         <div class="col-lg-3 col-md-6 text-center">
           <div class="mt-5">
-            <i class="fas fa-4x fa-american-sign-language-interpreting text-primary mb-4"></i>
-            <h3 class="h4 mb-2">Prolijidad</h3>
-            <p class="text-muted mb-0">Destruimos bien!, pero todo co orden ;) </p>
+            <i class="fas fa-4x  fa-user-shield text-primary mb-4"></i>
+            <h3 class="h4 mb-2">Seguridad</h3>
+            <p class="text-muted mb-0"> Equipo capacitado listo para brindar la mayor seguridad </p>
           </div>
         </div>
         <div class="col-lg-3 col-md-6 text-center">
           <div class="mt-5">
-            <i class="fas fa-4x fa-heart text-primary mb-4"></i>
-            <h3 class="h4 mb-2">Lo hacemos con amor</h3>
-            <p class="text-muted mb-0"> Nos gusta nuestro trabajo </p>
+            <i class="fas fa-4x fa-medal text-primary mb-4"></i>
+            <h3 class="h4 mb-2">Excelencia</h3>
+            <p class="text-muted mb-0"> Disponemos de variedad y calidad en nuestros equipos. </p>
           </div>
         </div>
       </div>
