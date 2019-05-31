@@ -6,7 +6,7 @@
       <hr class="divider my-4">
       <p class="color-text-gris mb-4"> {{$Noticia->name}}   </p>
 
-      <div class="”video-responsive”">
+      <div class="video-responsive">
          <iframe  src="https://www.youtube.com/embed/{{$Noticia->url_video}}" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
       </div>
 
