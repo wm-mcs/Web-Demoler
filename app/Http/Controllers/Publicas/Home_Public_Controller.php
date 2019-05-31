@@ -39,7 +39,7 @@ class Home_Public_Controller extends Controller
                                    return $this->ProductoRepo->getUltimasEntidadesRegistradasRandomActive($Request,4) ; 
                
                                 });
-        $Noticia              = $this->NoticiasRepo->getEntidad()->last();  
+        $Noticia              = $this->NoticiasRepo->getEntidad()->all()->last();  
 
         return view('paginas.home.home', compact('Route','Empresa','ProductosNuevos','Noticia'));
     }
