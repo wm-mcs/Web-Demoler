@@ -17,7 +17,7 @@
           </div>
         </div>
 
-        @include('paginas.home.home_boton_contactar_whatsapp')
+        @include('paginas.home.home_boton_contactar_whatsapp_blanco')
         
       </div>
     </section>
