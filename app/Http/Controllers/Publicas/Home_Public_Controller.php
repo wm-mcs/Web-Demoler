@@ -37,8 +37,9 @@ class Home_Public_Controller extends Controller
         $Empresa              = $this->EmpresaRepo->getEmpresaDatos(); 
         $ProductosNuevos      = Cache::remember('ProductosNuevosHome', 30, function() use ($Request) {
                                    return $this->ProductoRepo->getUltimasEntidadesRegistradasRandomActive($Request,4) ; 
-        $Noticia              = $NoticiasRepo->getEntidad()->last();         
+               
                                 });
+        $Noticia              = $NoticiasRepo->getEntidad()->last();  
 
         return view('paginas.home.home', compact('Route','Empresa','ProductosNuevos','Noticia'));
     }
