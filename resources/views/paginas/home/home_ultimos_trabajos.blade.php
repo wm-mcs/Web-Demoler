@@ -26,88 +26,100 @@
       <div class="row no-gutters popup-gallery">
 
         <div class="col-lg-4 col-sm-6">
-          <a class="portfolio-box" href="{{url()}}/imagenes/Galeria/1.jpg ">
-            <img class="img-fluid" src="{{url()}}/imagenes/Galeria/1.jpg " alt="">
-            <div class="portfolio-box-caption">
-              <div class="project-category text-white-50">
-                Category
+            <a class="portfolio-box" href="{{url()}}/imagenes/Galeria/1.jpg ">
+              <img class="img-fluid" src="{{url()}}/imagenes/Galeria/1.jpg " alt="">
+              <div class="portfolio-box-caption">
+                <div class="portfolio-box-caption-content">
+                  <div class="project-category text-faded">
+                    Río Arapey
+                  </div>
+                  <div class="project-name">
+                    Especial para pesca de Vadeo
+                  </div>
+                </div>
               </div>
-              <div class="project-name">
-                Project Name
-              </div>
-            </div>
-          </a>
-        </div>
+            </a>
+          </div>
 
          <div class="col-lg-4 col-sm-6">
-          <a class="portfolio-box" href="{{url()}}/imagenes/Galeria/2.jpg ">
-            <img class="img-fluid" src="{{url()}}/imagenes/Galeria/2.jpg " alt="">
-            <div class="portfolio-box-caption">
-              <div class="project-category text-white-50">
-                Category
+            <a class="portfolio-box" href="{{url()}}/imagenes/Galeria/1.jpg ">
+              <img class="img-fluid" src="{{url()}}/imagenes/Galeria/1.jpg " alt="">
+              <div class="portfolio-box-caption">
+                <div class="portfolio-box-caption-content">
+                  <div class="project-category text-faded">
+                    Río Arapey
+                  </div>
+                  <div class="project-name">
+                    Especial para pesca de Vadeo
+                  </div>
+                </div>
               </div>
-              <div class="project-name">
-                Project Name
-              </div>
-            </div>
-          </a>
-        </div>
+            </a>
+          </div>
 
          <div class="col-lg-4 col-sm-6">
-          <a class="portfolio-box" href="{{url()}}/imagenes/Galeria/3.jpg ">
-            <img class="img-fluid" src="{{url()}}/imagenes/Galeria/3.jpg " alt="">
-            <div class="portfolio-box-caption">
-              <div class="project-category text-white-50">
-                Category
+            <a class="portfolio-box" href="{{url()}}/imagenes/Galeria/1.jpg ">
+              <img class="img-fluid" src="{{url()}}/imagenes/Galeria/1.jpg " alt="">
+              <div class="portfolio-box-caption">
+                <div class="portfolio-box-caption-content">
+                  <div class="project-category text-faded">
+                    Río Arapey
+                  </div>
+                  <div class="project-name">
+                    Especial para pesca de Vadeo
+                  </div>
+                </div>
               </div>
-              <div class="project-name">
-                Project Name
-              </div>
-            </div>
-          </a>
-        </div>
+            </a>
+          </div>
 
-         <div class="col-lg-4 col-sm-6">
-          <a class="portfolio-box" href="{{url()}}/imagenes/Galeria/4.jpg ">
-            <img class="img-fluid" src="{{url()}}/imagenes/Galeria/4.jpg " alt="">
-            <div class="portfolio-box-caption">
-              <div class="project-category text-white-50">
-                Category
+          <div class="col-lg-4 col-sm-6">
+            <a class="portfolio-box" href="{{url()}}/imagenes/Galeria/1.jpg ">
+              <img class="img-fluid" src="{{url()}}/imagenes/Galeria/1.jpg " alt="">
+              <div class="portfolio-box-caption">
+                <div class="portfolio-box-caption-content">
+                  <div class="project-category text-faded">
+                    Río Arapey
+                  </div>
+                  <div class="project-name">
+                    Especial para pesca de Vadeo
+                  </div>
+                </div>
               </div>
-              <div class="project-name">
-                Project Name
-              </div>
-            </div>
-          </a>
-        </div>
+            </a>
+          </div>
 
-         <div class="col-lg-4 col-sm-6">
-          <a class="portfolio-box" href="{{url()}}/imagenes/Galeria/5.jpg ">
-            <img class="img-fluid" src="{{url()}}/imagenes/Galeria/5.jpg " alt="">
-            <div class="portfolio-box-caption">
-              <div class="project-category text-white-50">
-                Category
+          <div class="col-lg-4 col-sm-6">
+            <a class="portfolio-box" href="{{url()}}/imagenes/Galeria/1.jpg ">
+              <img class="img-fluid" src="{{url()}}/imagenes/Galeria/1.jpg " alt="">
+              <div class="portfolio-box-caption">
+                <div class="portfolio-box-caption-content">
+                  <div class="project-category text-faded">
+                    Río Arapey
+                  </div>
+                  <div class="project-name">
+                    Especial para pesca de Vadeo
+                  </div>
+                </div>
               </div>
-              <div class="project-name">
-                Project Name
-              </div>
-            </div>
-          </a>
-        </div>
+            </a>
+          </div>
 
-         <div class="col-lg-4 col-sm-6">
-          <a class="portfolio-box" href="{{url()}}/imagenes/Galeria/6.jpg ">
-            <img class="img-fluid" src="{{url()}}/imagenes/Galeria/6.jpg " alt="">
-            <div class="portfolio-box-caption">
-              <div class="project-category text-white-50">
-                Category
+          <div class="col-lg-4 col-sm-6">
+            <a class="portfolio-box" href="{{url()}}/imagenes/Galeria/1.jpg ">
+              <img class="img-fluid" src="{{url()}}/imagenes/Galeria/1.jpg " alt="">
+              <div class="portfolio-box-caption">
+                <div class="portfolio-box-caption-content">
+                  <div class="project-category text-faded">
+                    Río Arapey
+                  </div>
+                  <div class="project-name">
+                    Especial para pesca de Vadeo
+                  </div>
+                </div>
               </div>
-              <div class="project-name">
-                Project Name
-              </div>
-            </div>
-          </a>
-        </div>
+            </a>
+          </div>
        
       </div>
     </div>
