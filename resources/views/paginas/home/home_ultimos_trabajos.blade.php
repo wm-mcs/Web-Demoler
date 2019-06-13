@@ -28,14 +28,14 @@
         <div class="col-lg-4 col-sm-6">
           <a class="portfolio-box" href="{{url()}}/imagenes/Galeria/1.jpg ">
             <img class="img-fluid" src="{{url()}}/imagenes/Galeria/1.jpg " alt="">
-           {{--  <div class="portfolio-box-caption">
+            <div class="portfolio-box-caption">
               <div class="project-category text-white-50">
                 Category
               </div>
               <div class="project-name">
                 Project Name
               </div>
-            </div> --}}
+            </div>
           </a>
         </div>
 
