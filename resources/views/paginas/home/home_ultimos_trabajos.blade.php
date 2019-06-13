@@ -21,7 +21,7 @@
 
 
 
-  <section id="portfolio" class="p-0">
+  <section id="galeria" class="p-0">
     <div class="container-fluid p-0">
       <div class="row no-gutters popup-gallery">
 
