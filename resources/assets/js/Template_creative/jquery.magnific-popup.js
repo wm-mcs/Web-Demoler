@@ -36,7 +36,7 @@ var CLOSE_EVENT = 'Close',
 	EVENT_NS = '.' + NS,
 	READY_CLASS = 'mfp-ready',
 	REMOVING_CLASS = 'mfp-removing',
-	PREVENT_CLOSE_CLASS = 'mfp-prevent-close';
+	PREVENT_CLOSE_CLASS = 'mfp-prevent-close'; 
 
 
 /**
