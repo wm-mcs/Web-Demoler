@@ -21,6 +21,8 @@ elixir(function(mix) {
      
     mix.scripts([
         
+     
+
         'Template_creative/jquery.js',
         'Template_creative/bootstrap.bundle.js',
         'Template_creative/jquery.easing.js',        
@@ -28,6 +30,10 @@ elixir(function(mix) {
         'Template_creative/jquery.magnific-popup.js',
         'Template_creative/creative.js',
         'Template_creative/jquery.easing.compatibility.js',
+
+
+
+
         'Plugins/Flickity.js',
         'Plugins/Plug-lazyLoadXT.js',
         'Customs/sliders.js',

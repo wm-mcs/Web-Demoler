@@ -25,27 +25,89 @@
     <div class="container-fluid p-0">
       <div class="row no-gutters">
 
-        
-          <a href="{{url()}}/imagenes/Galeria/1.jpg " data-fancybox="gallery" data-caption="Caption #1">
-            <img src="{{url()}}/imagenes/Galeria/1.jpg " alt="" />
-          </a>
-        
-
-        
-          <a href="{{url()}}/imagenes/Galeria/1.jpg " data-fancybox="gallery" data-caption="Caption #1">
-            <img src="{{url()}}/imagenes/Galeria/1.jpg " alt="" />
-          </a>
-        
-
-         <div class="col-lg-4 col-sm-6">
-          <a href="{{url()}}/imagenes/Galeria/1.jpg " data-fancybox="gallery" data-caption="Caption #1">
-            <img src="{{url()}}/imagenes/Galeria/1.jpg " alt="" />
+        <div class="col-lg-4 col-sm-6">
+          <a class="portfolio-box" href="{{url()}}/imagenes/Galeria/1.jpg ">
+            <img class="img-fluid" src="{{url()}}/imagenes/Galeria/1.jpg " alt="">
+           {{--  <div class="portfolio-box-caption">
+              <div class="project-category text-white-50">
+                Category
+              </div>
+              <div class="project-name">
+                Project Name
+              </div>
+            </div> --}}
           </a>
         </div>
 
+         <div class="col-lg-4 col-sm-6">
+          <a class="portfolio-box" href="{{url()}}/imagenes/Galeria/2.jpg ">
+            <img class="img-fluid" src="{{url()}}/imagenes/Galeria/2.jpg " alt="">
+           {{--  <div class="portfolio-box-caption">
+              <div class="project-category text-white-50">
+                Category
+              </div>
+              <div class="project-name">
+                Project Name
+              </div>
+            </div> --}}
+          </a>
+        </div>
 
+         <div class="col-lg-4 col-sm-6">
+          <a class="portfolio-box" href="{{url()}}/imagenes/Galeria/3.jpg ">
+            <img class="img-fluid" src="{{url()}}/imagenes/Galeria/3.jpg " alt="">
+           {{--  <div class="portfolio-box-caption">
+              <div class="project-category text-white-50">
+                Category
+              </div>
+              <div class="project-name">
+                Project Name
+              </div>
+            </div> --}}
+          </a>
+        </div>
 
-       
+         <div class="col-lg-4 col-sm-6">
+          <a class="portfolio-box" href="{{url()}}/imagenes/Galeria/4.jpg ">
+            <img class="img-fluid" src="{{url()}}/imagenes/Galeria/4.jpg " alt="">
+           {{--  <div class="portfolio-box-caption">
+              <div class="project-category text-white-50">
+                Category
+              </div>
+              <div class="project-name">
+                Project Name
+              </div>
+            </div> --}}
+          </a>
+        </div>
+
+         <div class="col-lg-4 col-sm-6">
+          <a class="portfolio-box" href="{{url()}}/imagenes/Galeria/5.jpg ">
+            <img class="img-fluid" src="{{url()}}/imagenes/Galeria/5.jpg " alt="">
+           {{--  <div class="portfolio-box-caption">
+              <div class="project-category text-white-50">
+                Category
+              </div>
+              <div class="project-name">
+                Project Name
+              </div>
+            </div> --}}
+          </a>
+        </div>
+
+         <div class="col-lg-4 col-sm-6">
+          <a class="portfolio-box" href="{{url()}}/imagenes/Galeria/6.jpg ">
+            <img class="img-fluid" src="{{url()}}/imagenes/Galeria/6.jpg " alt="">
+           {{--  <div class="portfolio-box-caption">
+              <div class="project-category text-white-50">
+                Category
+              </div>
+              <div class="project-name">
+                Project Name
+              </div>
+            </div> --}}
+          </a>
+        </div>
        
       </div>
     </div>
