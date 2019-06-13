@@ -30,7 +30,6 @@ elixir(function(mix) {
         'Template_creative/jquery.easing.compatibility.js',
         'Plugins/Flickity.js',
         'Plugins/Plug-lazyLoadXT.js',
-        'Plugins/Plug-FancyBox.js',
         'Customs/sliders.js',
         'Customs/team.js',
         'Customs/noticias_blog.js'

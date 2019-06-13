@@ -25,17 +25,17 @@
     <div class="container-fluid p-0">
       <div class="row no-gutters">
 
-        <div class="col-lg-4 col-sm-6">
+        
           <a href="{{url()}}/imagenes/Galeria/1.jpg " data-fancybox="gallery" data-caption="Caption #1">
             <img src="{{url()}}/imagenes/Galeria/1.jpg " alt="" />
           </a>
-        </div> 
+        
 
-         <div class="col-lg-4 col-sm-6">
+        
           <a href="{{url()}}/imagenes/Galeria/1.jpg " data-fancybox="gallery" data-caption="Caption #1">
             <img src="{{url()}}/imagenes/Galeria/1.jpg " alt="" />
           </a>
-        </div>
+        
 
          <div class="col-lg-4 col-sm-6">
           <a href="{{url()}}/imagenes/Galeria/1.jpg " data-fancybox="gallery" data-caption="Caption #1">
