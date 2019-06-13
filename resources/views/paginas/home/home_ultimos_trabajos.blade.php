@@ -21,9 +21,9 @@
 
 
 
-  <section id="portfolio">
+  <section id="portfolio" class="p-0">
     <div class="container-fluid p-0">
-      <div class="row no-gutters">
+      <div class="row no-gutters popup-gallery">
 
         <div class="col-lg-4 col-sm-6">
           <a class="portfolio-box" href="{{url()}}/imagenes/Galeria/1.jpg ">
