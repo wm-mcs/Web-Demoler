@@ -18,9 +18,9 @@
       @include('paginas.home.home_about')    
       @include('paginas.home.home_ultimos_trabajos')      
         
-      <img data-src="{{url()}}/imagenes/Home/1.jpg" class="get_width_100">  
+      {{-- <img data-src="{{url()}}/imagenes/Home/1.jpg" class="get_width_100">   --}}
       @include('paginas.home.home_service')   
-      {{-- <img data-src="{{url()}}/imagenes/Home/2.jpg" class="get_width_100">   --}} 
+      <img data-src="{{url()}}/imagenes/Home/2.jpg" class="get_width_100">   
 @stop      
 
 
