@@ -31,10 +31,10 @@
               <div class="portfolio-box-caption">
                 <div class="portfolio-box-caption-content">
                   <div class="project-category text-faded">
-                    Río Arapey
+                    Trabajo
                   </div>
                   <div class="project-name">
-                    Especial para pesca de Vadeo
+                    Ver
                   </div>
                 </div>
               </div>
@@ -47,10 +47,10 @@
               <div class="portfolio-box-caption">
                 <div class="portfolio-box-caption-content">
                   <div class="project-category text-faded">
-                    Río Arapey
+                    Trabajo
                   </div>
                   <div class="project-name">
-                    Especial para pesca de Vadeo
+                    Ver
                   </div>
                 </div>
               </div>
@@ -63,10 +63,10 @@
               <div class="portfolio-box-caption">
                 <div class="portfolio-box-caption-content">
                   <div class="project-category text-faded">
-                    Río Arapey
+                    Trabajo
                   </div>
                   <div class="project-name">
-                    Especial para pesca de Vadeo
+                    Ver 
                   </div>
                 </div>
               </div>
@@ -79,10 +79,10 @@
               <div class="portfolio-box-caption">
                 <div class="portfolio-box-caption-content">
                   <div class="project-category text-faded">
-                    Río Arapey
+                    Trabajo
                   </div>
                   <div class="project-name">
-                    Especial para pesca de Vadeo
+                    Ver
                   </div>
                 </div>
               </div>
@@ -95,10 +95,10 @@
               <div class="portfolio-box-caption">
                 <div class="portfolio-box-caption-content">
                   <div class="project-category text-faded">
-                    Río Arapey
+                    Trabajo
                   </div>
                   <div class="project-name">
-                    Especial para pesca de Vadeo
+                    Ver
                   </div>
                 </div>
               </div>
@@ -111,10 +111,10 @@
               <div class="portfolio-box-caption">
                 <div class="portfolio-box-caption-content">
                   <div class="project-category text-faded">
-                    Río Arapey
+                    Trabajo
                   </div>
                   <div class="project-name">
-                    Especial para pesca de Vadeo
+                    Ver
                   </div>
                 </div>
               </div>
