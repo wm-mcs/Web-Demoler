@@ -106,12 +106,15 @@
 
  .video-responsive {
 width: 100%;
-  margin-top: 20px;
+margin-top: 20px;
 position: relative;
 padding-bottom: 56.25%; /* 16/9 ratio */
 padding-top: 30px; /* IE6 workaround*/
 height: 0;
 overflow: hidden;
+@include flexbox;       
+  @include flex-direction(column);
+  @include align-items(center); 
 }
 
 .video-responsive iframe,
@@ -140,6 +143,13 @@ height: 100%;
   .post-img-slider-size {
     height: 80vh;
   }
+
+
+
+ .video-responsive {
+ width: 60%;
+
+}
 }
 
 
