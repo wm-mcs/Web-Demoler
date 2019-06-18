@@ -6,17 +6,18 @@
       <hr class="divider my-4">
       <p class="color-text-gris mb-4 text-center"> {{$Noticia->name}}   </p>
 
-      <div class="contiene-video">
-          <div class="video-responsive">
-             <iframe  src="https://www.youtube.com/embed/{{$Noticia->url_video}}" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-          </div>
+      <div class="flex-row-column get_width_100">
+        <div class="contiene-video">
+            <div class="video-responsive">
+               <iframe  src="https://www.youtube.com/embed/{{$Noticia->url_video}}" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+            </div>
 
-          <div class="post-img-texto">
-            {{$Noticia->description}} 
-          </div>
-        
-      </div>
-   
+            <div class="post-img-texto">
+              {{$Noticia->description}} 
+            </div>
+          
+        </div>
+     </div>
      
 
       @include('paginas.home.home_boton_contactar_whatsapp')
