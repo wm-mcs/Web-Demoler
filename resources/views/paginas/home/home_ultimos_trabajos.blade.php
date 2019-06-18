@@ -15,6 +15,9 @@
             <div class="post-img-texto">
               {{$Noticia->description}} 
             </div>
+
+
+            <a href="{{route('get_pagina_noticias_listado')}}">Ver mas</a>
           
         </div>
      </div>
