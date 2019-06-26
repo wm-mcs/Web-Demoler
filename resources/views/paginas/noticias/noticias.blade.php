@@ -76,6 +76,8 @@
 
     @endforeach
 
+    {!! $Noticias->render() !!}
+
   </div>
 
   
