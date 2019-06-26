@@ -84,7 +84,7 @@ a:hover, a:focus, a>p:hover, a>p:focus{
 .pagination li {
     display: inline;
     color: $color-3;
-    padding: 0 14px;
+
 }
 
 .pagination a {
@@ -98,11 +98,15 @@ a:hover, a:focus, a>p:hover, a>p:focus{
 }
 
 .pagination a:hover,
-.pagination .active a {
+.pagination .active span {
     background-color:$color-3;
     color: #ffffff;
     padding: 0 14px;
+    line-height: 34px;
+    
 }
+
+
 
 .pagination a:focus {
     background-color: $color-2;
