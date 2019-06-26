@@ -76,7 +76,11 @@
 
     @endforeach
 
-    {!! $Noticias->render() !!}
+    <div class="get_width_100 flex-row-column">
+      {!! $Noticias->render() !!}
+    </div>
+
+    
 
   </div>
 
