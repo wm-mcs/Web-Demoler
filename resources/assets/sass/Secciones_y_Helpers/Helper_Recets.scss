@@ -62,7 +62,7 @@ a:hover, a:focus, a>p:hover, a>p:focus{
 .pagination {
     height: 36px;
     margin: 18px 0;
-    color: #6c58bF;
+    color: $color-3;
 }
 
 .pagination ul {
@@ -83,7 +83,7 @@ a:hover, a:focus, a>p:hover, a>p:focus{
 
 .pagination li {
     display: inline;
-    color: #6c58bF;
+    color: $color-3;
 }
 
 .pagination a {
@@ -98,12 +98,12 @@ a:hover, a:focus, a>p:hover, a>p:focus{
 
 .pagination a:hover,
 .pagination .active a {
-    background-color: #6c58bF;
+    background-color:$color-3;
     color: #ffffff;
 }
 
 .pagination a:focus {
-    background-color: #6c58bF;
+    background-color: $color-2;
     color: #ffffff;
 }
 
@@ -147,7 +147,7 @@ a:hover, a:focus, a>p:hover, a>p:focus{
     margin-bottom: 18px;
     list-style: none;
     text-align: center;
-    color: #6c58bF;
+    color: $color-3;
     *zoom: 1;
 }
 
@@ -163,13 +163,13 @@ a:hover, a:focus, a>p:hover, a>p:focus{
 
 .pager li {
     display: inline;
-    color: #6c58bF;
+    color:$color-3;
 }
 
 .pager a {
     display: inline-block;
     padding: 5px 14px;
-    color: #6c58bF;
+    color: $color-3;
     background-color: #fff;
     border: 1px solid #ddd;
     -webkit-border-radius: 15px;
