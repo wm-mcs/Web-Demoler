@@ -84,6 +84,7 @@ a:hover, a:focus, a>p:hover, a>p:focus{
 .pagination li {
     display: inline;
     color: $color-3;
+    padding: 0 14px;
 }
 
 .pagination a {
@@ -109,7 +110,7 @@ a:hover, a:focus, a>p:hover, a>p:focus{
 }
 
 
-.pagination .active a {
+.pagination li   {
     color: #ffffff;
     cursor: default;
 }
