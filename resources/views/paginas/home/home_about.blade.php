@@ -9,7 +9,7 @@
             <h2 class="section-heading text-white">¿Quienes somos? </h2>
            
             <hr class="light my-4">
-            <p class="text-white mb-4">Info de la empresa aqui 
+            <p class="text-white mb-4">Somos una joven empresa en el rubro y en constante crecimiento; nos encargamos de todo tipo de trabajos que implique el uso de mano de obra calificada y maquinaria apta para el mismo (derribo de edificaciones, excavaciones, movimientos de tierra, etc.) Estamos siempre dispuestos y a las ordenes en brindarte el mejor trabajo de calidad para tus necesidades y satisfacción. 
             </p>
 
         
