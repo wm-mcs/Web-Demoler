@@ -2,7 +2,7 @@
       <div class="flex-row-center flex-wrap get_width_100 flex-justifice-space-around">
         <div class="contiene_contacto_img">
           <img data-src="{{$Empresa->img_logo_cuadrado}}" class="contacto_img">  
-          <div class="contacto_name">Nicolas</div>
+          <div class="contacto_name">Demoler atención</div>
           <div class="contacto_aclaracion color-text-gris"> Estoy encargado de atenderte en lo que necesites..</div>
           @if($Empresa->whatsapp_empresa != 'no')
                   <a class="footer-icono-social" href="{{$Empresa->link_whatsapp_send}}"> 
